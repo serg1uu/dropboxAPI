@@ -1,0 +1,12 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #D4E0E1 !important;
+    padding: 15px;
+}
+
+body.dropboxApp .custom-file {
+    margin-bottom: 10px;
+}
